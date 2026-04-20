@@ -1,28 +1,28 @@
 # 🚀 Proyecto de Transformación Digital (RA6)
 
 ## 🧑‍💼 1. Empresa
-- Nombre de la empresa:
-- Sector:
-- Descripción breve:
+- Nombre de la empresa: Clinica Simón
+- Sector: Medicina
+- Descripción breve: Se hacen tanto intervenciones quirurgicas, como curacione con grandes enfermeros, etc.
 
 ---
 
 ## 🎯 2. Objetivos estratégicos (SMART)
 
 ### Objetivo 1
-- Descripción:
-- Métrica:
-- Plazo:
+- Descripción: Creacion de una pagina web desde cero y que este bien optimizada, con una buena vista tanto de las RRSS, NºTlf, ofertas y ubicacion. Y que sea ligera y veloz.
+- Métrica: Aumentar en un 40% las citas online.
+- Plazo: 4 - 8 meses.
 
 ### Objetivo 2
-- Descripción:
-- Métrica:
-- Plazo:
+- Descripción: Implementar un sistema digital de gestión de pacientes (historial clínico electrónico).
+- Métrica: Reducir en un 60% el uso de papel y mejorar el acceso a datos en tiempo real.
+- Plazo: 6 - 8 meses.
 
 ### Objetivo 3
-- Descripción:
-- Métrica:
-- Plazo:
+- Descripción: Automatizar la gestión de citas médicas y recordatorios.
+- Métrica: Reducir en un 30% las citas perdidas.
+- Plazo: 3–5 meses
 
 ---
 
@@ -30,32 +30,38 @@
 
 | Área | Función | Sub-objetivo digital | Impacto esperado |
 |------|--------|----------------------|------------------|
-|      |        |                      |                  |
-|      |        |                      |                  |
-|      |        |                      |                  |
+| Recepción | Gestión de citas y atención al paciente | Digitalizar agenda y citas online | Menor carga administrativa |
+| Área médica | Diagnóstico y tratamiento | Implementar historial clínico digital | Mayor rapidez y precisión |
+| Administración | Facturación y gestión interna | Automatizar procesos contables | Reducción de errores |
+| Marketing | Promoción de servicios | Presencia web y redes sociales | Captación de nuevos pacientes |
+
 
 ---
 
 ## ⚙️ 4. Tecnologías habilitadoras digitales (THD)
 
-- Tecnología 1:
-  - Uso en la empresa:
-- Tecnología 2:
-  - Uso en la empresa:
-- Tecnología 3:
-  - Uso en la empresa:
-- Tecnología 4:
-  - Uso en la empresa:
-- Tecnología 5:
-  - Uso en la empresa:
+- **Tecnología 1: Cloud Computing**
+  - Uso en la empresa: Almacenamiento seguro de historiales médicos.
+
+- **Tecnología 2: Bases de datos (SQL/NoSQL)**
+  - Uso en la empresa: Gestión de información de pacientes y citas.
+
+- **Tecnología 3: Aplicaciones web**
+  - Uso en la empresa: Portal de pacientes y reservas online.
+
+- **Tecnología 4: Inteligencia Artificial**
+  - Uso en la empresa: Análisis de datos médicos y predicción de citas.
+
+- **Tecnología 5: CRM sanitario**
+  - Uso en la empresa: Gestión de pacientes y seguimiento.
 
 ---
 
 ## 📊 5. Datos y tratamiento de la información
 
-- Tipos de datos que genera la empresa:
-- Cómo se capturan:
-- Cómo se almacenan:
+- Tipos de datos que genera la empresa: Citas, Fichas de clientes, Facturacion.
+- Cómo se capturan: Formularios Web, registro en recepcion.
+- Cómo se almacenan: BBDD.
 - Cómo se procesan:
 - Cómo se analizan:
 - Uso en la toma de decisiones:
